@@ -29,9 +29,6 @@ python-learning-portfolio/
 ├── Exercises/
 │   ├── Python exercise notebooks (.ipynb)
 │
-├── Certificates/
-│   └── Python course certificate
-│
 └── README.md
 ```
 
